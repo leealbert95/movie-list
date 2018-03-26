@@ -1,0 +1,18 @@
+@import url("http://netdna.bootstrapcdn.com/bootstrap/3.0.0-rc2/css/bootstrap-glyphicons.css");
+
+body {
+  background: #f1f1f1;
+}
+
+.movies-container {
+  height: 20em;
+  overflow-y: scroll;
+}
+
+.movies-table {
+  background: #b1b1b1;
+}
+
+.test {
+  background: red;
+}
